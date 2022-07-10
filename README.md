@@ -1,5 +1,5 @@
 <h2 align="center">Hi , Mayank here. Currently Engineering Tech at OneCard.</h2>
-<h4 align="center">I majorily code in python for my work and have used java for my initial projects. I have cloud first mentality and able to build and ideate cloud first solutions. In my work project i am working with OLAP data warehouse clickhouse, which introduced me to world of distributed systems and data engineering. Currenlty in my free time i am learning golang, solving DSA question using it and following a book on TDD with Golang - <a href="url">quii.gitbook.io/learn-go-with-tests/<a></h4>
+<h4 align="center">I majorily code in python for my office work and have also used java for my initial projects. I have cloud first mentality and able to build and ideate cloud first solutions. At my work i am currently building an event mansion with OLAP data warehouse Clickhouse, which introduced me to world of distributed systems and data engineering. Currenlty in my free time i am learning golang, solving DSA question using it and following a book on TDD with Golang - <a href="url">quii.gitbook.io/learn-go-with-tests/<a></h4>
 
 <p align="left"> <a href="https://twitter.com/soyank_76" target="blank"><img src="https://img.shields.io/twitter/follow/soyank_76?logo=twitter&style=for-the-badge" alt="soyank_76" /></a> </p>
 
