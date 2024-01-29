@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on cool stuff at Onecard. My GitHub's a mix of random computer musings. Right now, diving deep into databases and application design and optimization with Java. Keeping it fun and dynamic! 🚀
+Working on cool stuff at Onecard. My GitHub's a mix of random computer musings. Right now, diving deep into databases and application design and optimization with Java. Keeping it fun and dynamic! 🚀\
 Aiming to bring smile, mixing memes, quotes and code.
 
 
