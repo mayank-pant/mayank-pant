@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently engineering stuff on [Onecard](https://www.getonecard.app/). My GitHub's a mix of random computer musings. Right now, diving deep into databases and application design and optimization with Java. Keeping it fun and dynamic! 🚀\
+Currently engineering stuff for [Onecard](https://www.getonecard.app/). My GitHub's a mix of random computer musings. Right now, diving deep into databases and application design and optimization with Java. Keeping it fun and dynamic! 🚀\
 Aiming to bring smile, mixing memes, quotes and code.
 
 
